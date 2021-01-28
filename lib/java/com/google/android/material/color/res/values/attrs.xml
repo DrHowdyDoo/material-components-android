@@ -32,7 +32,7 @@
   <attr name="colorOnSecondary" format="color"/>
   <!-- A color that passes accessibility guidelines for text/iconography when drawn on top of
        background. -->
-  <attr name="colorOnBackground"/>
+  <attr name="colorOnBackground" format="color"/>
   <!-- A color that passes accessibility guidelines for text/iconography when drawn on top of
        error. -->
   <attr name="colorOnError" format="color"/>
